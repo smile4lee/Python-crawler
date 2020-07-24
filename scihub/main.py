@@ -8,8 +8,8 @@ id_search_btn = 'open'
 xpath_download_click = '//*[@id="buttons"]/ul/li/a'
 driver_path = "C:\\Portable\\chromedriver_win32\\chromedriver.exe"
 
-# title = 'Remote sensing and land cover area estimation'
-title = 'aaaa'
+title = 'Remote sensing and land cover area estimation'
+# title = 'aaaa'
 
 
 sci_hub = SciHub(
