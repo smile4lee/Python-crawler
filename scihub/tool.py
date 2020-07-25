@@ -68,6 +68,10 @@ def download(driver, download_url, download_dir, title):
 def rename_latest_file(dir, title, extension="/*.pdf"):
     # * means all if need specific format then *.csv
     list_of_files = glob.glob(dir + extension)
+    if len(list_of_files) == 0:
+        print("no files found in dir:", dir)
+        sys.exit(1)
+
     latest_file = max(list_of_files, key=os.path.getctime)
     print("latest_file: %s" % latest_file)
     # os.rename(latest_file, os.path.join(dir, title + ".pdf"))
