@@ -12,7 +12,7 @@ class SciHub(object):
                  ):
         # absolute full path of download path
         abs_download_dir = os.path.abspath(config.download_dir)
-        self.driver = tool.getDriver(config.driver_path, abs_download_dir)
+        self.driver = tool.get_driver(config.driver_path, abs_download_dir)
         self.scihub_url = config.scihub_url
         self.title = title
         self.download_dir = abs_download_dir

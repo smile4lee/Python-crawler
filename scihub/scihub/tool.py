@@ -6,7 +6,7 @@ import shutil
 from selenium import webdriver
 
 
-def getDriver(driver_path, download_dir):
+def get_driver(driver_path, download_dir='.\\download'):
     # Disable Chrome's PDF Viewer
     profile = {"plugins.plugins_list": [{"enabled": False, "name": "Chrome PDF Viewer"}],
                "download.default_directory": download_dir, "download.extensions_to_open": "applications/pdf"}
@@ -15,6 +15,11 @@ def getDriver(driver_path, download_dir):
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     options.add_experimental_option("prefs", profile)
+    options.add_experimental_option('excludeSwitches', ['enable-automation'])
+
+    # options.add_argument('user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+    # like Gecko) Chrome/84.0.4147.89 Safari/537.36')
+
     # Optional argument, if not specified will search path.
     driver = webdriver.Chrome(driver_path, chrome_options=options)
 

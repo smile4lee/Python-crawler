@@ -1,5 +1,5 @@
 scihub_url = 'https://sci-hub.tw/'
-download_dir = ".\\download"
+download_dir = "../../../scihub2pdf/scihub2pdf/download"
 xpath_search_input = '//*[@id="input"]/form/input[2]'
 id_search_btn = 'open'
 xpath_download_click = '//*[@id="buttons"]/ul/li/a'

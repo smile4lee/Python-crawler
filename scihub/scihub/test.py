@@ -15,7 +15,7 @@ download_url = 'http://sci-hub.tw/10.1080/01431160310001619607'
 
 
 def main():
-    driver = tool.getDriver(driver_path, download_dir)
+    driver = tool.get_driver(driver_path, download_dir)
     driver.get(download_url)
     driver.find_element_by_xpath('//*[@id="buttons"]/ul/li/a')
     driver.find_element_by_xpath('//*[@id="pdf"]')
