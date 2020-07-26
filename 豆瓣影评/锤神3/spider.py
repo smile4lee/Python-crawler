@@ -4,7 +4,6 @@
 并存入数据库
 '''
 
-import time
 import os
 
 
@@ -13,7 +12,7 @@ from bs4 import BeautifulSoup
 from http.cookies import SimpleCookie
 
 from stroe import DbToMysql
-import config
+from scihub import config
 
 request_url = 'https://movie.douban.com/subject/25821634/comments?start={}&limit=20'
 

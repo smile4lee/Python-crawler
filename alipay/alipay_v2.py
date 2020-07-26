@@ -83,7 +83,7 @@ class Alipay_Bill_Info(object):
         # 找到登录按钮
         butten = sel.find_element_by_id('J-login-btn')
         time.sleep(1)
-        butten.click()
+        butten.click_by_class_name()
 
         # sel.save_screenshot('2.png')
         print(sel.current_url)

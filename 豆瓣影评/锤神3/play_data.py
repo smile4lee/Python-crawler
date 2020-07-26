@@ -12,10 +12,9 @@
 
 '''
 # 导入配置文件和数据库支持
-import config
+from scihub import config
 from stroe import DbToMysql
 from datetime import datetime
-import jieba
 
 # 初始化数据库链接
 store = DbToMysql(config.EHCO_DB)

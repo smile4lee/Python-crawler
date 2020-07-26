@@ -45,7 +45,7 @@ def search(driver, url, title):
     button = driver.find_element_by_id('open')
 
     # 点击按钮 提交搜索请求
-    button.click()
+    button.click_by_class_name()
 
     # 查看当前浏览器标题
     print("current title: %s " % driver.title)
@@ -60,7 +60,7 @@ def download(driver, download_url, download_dir, title):
     driver.get(download_url)
 
     try:
-        driver.find_element_by_xpath('//*[@id="buttons"]/ul/li/a').click()
+        driver.find_element_by_xpath('//*[@id="buttons"]/ul/li/a').click_by_class_name()
     except Exception:
         print("error with title: %s" % title)
         print("error with url: %s" % download_url)

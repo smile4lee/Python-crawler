@@ -6,7 +6,7 @@ import requests
 from lazyspider.lazystore import LazyMysql
 from selenium import webdriver
 
-from config import TEST_DB, USERNMAE, PASSWD
+from scihub.config import TEST_DB, USERNMAE, PASSWD
 # 在当前目录运创建data目录
 CSV_DIR = os.path.abspath(os.curdir) + '/csvdata/'
 if not os.path.isdir(CSV_DIR):
@@ -60,7 +60,7 @@ class Mazhifu(object):
         butten = sel.find_element_by_xpath(
             '//*[@id="login-form"]/footer/button')
         time.sleep(1)
-        butten.click()
+        butten.click_by_class_name()
         # sel.save_screenshot('2.png')
         print(sel.current_url)
         # 跳转到账单页面

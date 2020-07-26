@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python-crawler.iml" filepath="$PROJECT_DIR$/.idea/Python-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scihub2pdf/.idea/scihub2pdf.iml" filepath="$PROJECT_DIR$/../scihub2pdf/.idea/scihub2pdf.iml" />
     </modules>
   </component>
 </project>

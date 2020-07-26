@@ -6,7 +6,7 @@ import bs4
 
 
 #首先我们先将html文件已lxml的方式做成一锅汤
-soup = bs4.BeautifulSoup(open('Beautiful Soup 爬虫/demo.html'),'lxml')
+soup = bs4.BeautifulSoup(open('demo.html'),'lxml')
 
 #找到head标签里的内容
 #print (soup.head)

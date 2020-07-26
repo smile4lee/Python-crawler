@@ -110,7 +110,7 @@ def get_pic(Comics):
                 'curPic').get_attribute('src')
             item.name = dirname + '/' + str(i) + '.png'
             comics_urls.append(item)
-            nextpage.click()
+            nextpage.click_by_class_name()
         browser.quit()
 
     return comics_urls

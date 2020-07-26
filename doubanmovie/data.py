@@ -1,7 +1,7 @@
 
 # 导入对数据库操作的封装和配置文件
 from stroe import DbToMysql
-import config
+from scihub import config
 
 # 初始化组件
 store = DbToMysql(config.EHCO_DB)

@@ -4,8 +4,6 @@
 
 import pymysql.cursors
 
-import config
-
 
 class DbToMysql():
     '''封装对数据库的操作'''

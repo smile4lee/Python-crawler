@@ -92,7 +92,7 @@ def get_pic(Comics):
             filename = dirname + '/' + str(i) + '.png'
             SavePic(filename, pic_url)
             # 点击下一页的按钮，加载下一张图
-            nextpage.click()
+            nextpage.click_by_class_name()
 
         print('当前章节\t{}  下载完毕'.format(browser.title))
 

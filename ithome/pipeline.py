@@ -4,7 +4,7 @@
 '''
 
 from pymongo import MongoClient
-from config import *
+from scihub.config import *
 
 client = MongoClient(MONGO_URL, connect=True)
 db = client[MONGO_DB]
