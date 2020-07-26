@@ -20,33 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a73424-7eaf-4492-b26a-b55b38f6e241" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/conf/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/conf/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/conf/logging.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/researchgate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/test_logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scihub/scihub/test/yml_logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beautiful Soup 爬虫/002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beautiful Soup 爬虫/002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alipay/alipay_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/alipay/alipay_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doubanmovie/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/doubanmovie/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ithome/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/ithome/pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazhifu/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/mazhifu/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scihub/scihub/conf/logging.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scihub/scihub/titles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/conf/logging.conf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scihub/scihub/researchgate.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/researchgate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scihub/scihub/tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/tool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sougou/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/sougou/utils/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浏览器模拟爬虫/manhua.py" beforeDir="false" afterPath="$PROJECT_DIR$/浏览器模拟爬虫/manhua.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浏览器模拟爬虫/manhua_mutiprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/浏览器模拟爬虫/manhua_mutiprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/豆瓣影评/锤神3/play_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/豆瓣影评/锤神3/play_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/豆瓣影评/锤神3/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/豆瓣影评/锤神3/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/豆瓣影评/锤神3/stroe.py" beforeDir="false" afterPath="$PROJECT_DIR$/豆瓣影评/锤神3/stroe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/test/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/yml_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/test/conf/logging.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/test/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/test/test_logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/test/test_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scihub/scihub/test/yml_logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/scihub/scihub/test/yml_logging.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scihub2pdf/.idea/scihub2pdf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../scihub2pdf/.idea/scihub2pdf.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +56,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scihub/scihub/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scihub/scihub" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,12 +85,13 @@
       <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub\scihub" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub\scihub\test" />
       <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub\scihub" />
+      <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub\scihub\conf" />
+      <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub\scihub\test" />
       <recent name="C:\Users\lihaijun\PycharmProjects\Python-crawler\scihub" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.researchgate">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,9 +211,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.researchgate" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.a" />
-        <item itemvalue="Python.researchgate" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.regex" />
       </list>
@@ -251,7 +236,7 @@
       <workItem from="1595648948683" duration="257000" />
       <workItem from="1595649275357" duration="21029000" />
       <workItem from="1595748221964" duration="2025000" />
-      <workItem from="1595750717454" duration="7483000" />
+      <workItem from="1595750717454" duration="8829000" />
     </task>
     <servers />
   </component>
@@ -274,6 +259,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="586" y="203" key="#Inspections" timestamp="1595671005973">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -287,34 +275,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595753530666" />
-    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595755717982">
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595762133577">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595755717982" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595762133577" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1595648957523">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595648957523" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1595757613780">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1595762372778">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1595741471265" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595757613780" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1595757613780">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595762372778" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1595762372778">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1595741471264" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595757613780" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1595757613780">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595762372778" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1595762372778">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1595741471264" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595757613780" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1595757613780">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595762372778" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1595762372778">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1595741471265" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595757613780" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595762372778" />
     <state width="1877" height="224" key="GridCell.Tab.1.bottom" timestamp="1595756157615">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -350,13 +338,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scihub/scihub/researchgate.py</url>
-          <line>159</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -371,9 +352,9 @@
     <SUITE FILE_PATH="coverage/Python_crawler$a.coverage" NAME="a Coverage Results" MODIFIED="1595756883578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub/test" />
     <SUITE FILE_PATH="coverage/Python_crawler$002.coverage" NAME="002 Coverage Results" MODIFIED="1595650918439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup 爬虫" />
     <SUITE FILE_PATH="coverage/Python_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1595749758033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub/test" />
-    <SUITE FILE_PATH="coverage/Python_crawler$main.coverage" NAME="main Coverage Results" MODIFIED="1595757613765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub/test" />
+    <SUITE FILE_PATH="coverage/Python_crawler$main.coverage" NAME="main Coverage Results" MODIFIED="1595761297598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub/test" />
     <SUITE FILE_PATH="coverage/Python_crawler$001.coverage" NAME="001 Coverage Results" MODIFIED="1595650820797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup 爬虫" />
     <SUITE FILE_PATH="coverage/Python_crawler$regex.coverage" NAME="regex Coverage Results" MODIFIED="1595732951289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub/test" />
-    <SUITE FILE_PATH="coverage/Python_crawler$researchgate__1_.coverage" NAME="researchgate Coverage Results" MODIFIED="1595753501675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub" />
+    <SUITE FILE_PATH="coverage/Python_crawler$researchgate__1_.coverage" NAME="researchgate Coverage Results" MODIFIED="1595762372773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scihub/scihub" />
   </component>
 </project>

@@ -3,6 +3,7 @@ import yaml
 import coloredlogs
 import logging.config
 
+
 def setup_logging(default_path='conf/logging.yaml', default_level=logging.INFO, env_key='LOG_CFG'):
     """
     | **@author:** Prathyush SP

@@ -1,0 +1,50 @@
+A CNN-Transformer Hybrid Approach for Crop Classification using Multitemporal Multisensor Images
+Crop Mapping Using Random Forest and Particle Swarm Optimization Based on Multi-Temporal Sentinel-2
+Landsat Analysis Ready Data for Global Land Cover and Land Cover Change Mapping
+High-throughput estimation of crop traits: A review of ground and aerial phenotyping platforms
+Crop-Type Classification for Long-Term Modeling: An Integrated Remote Sensing and Machine Learning Approach
+A phenology-based method for identifying the planting fraction of winter wheat using moderate-resolution satellite data
+DeepCropMapping: A multi-temporal deep learning approach with improved spatial generalizability for dynamic corn and soybean mapping
+Early season mapping of winter wheat in China based on Landsat and Sentinel images
+Gap Fill of Land Surface Temperature and Reflectance Products in Landsat Analysis Ready Data
+Detecting Annual Harvested Area Using Landsat Time Series Data on the Main Island of Kyushu時系列Landsat画像を用いた九州本島における毎年の伐採推定
+Optimizing Feature Selection of Individual Crop Types for Improved Crop Mapping
+No pixel left behind: Toward integrating Earth Observations for agriculture into the United Nations Sustainable Development Goals framework
+Mapping soybean planting area in midwest Brazil with remotely sensed images and phenology-based algorithm using the Google Earth Engine platform
+Matching Confidence Constrained Bundle Adjustment for Multi-View High-Resolution Satellite Images
+Deep learning based winter wheat mapping using statistical data as ground references in Kansas and northern Texas, US
+Reflectance-based Model for Soybean Mapping in United States at Common Land Unit Scale with Landsat 8
+Crop Mapping Based on Historical Samples and New Training Samples Generation in Heilongjiang Province, China
+Cloud Environment for Disseminating NASS Cropland Data Layer
+Key issues in rigorous accuracy assessment of land cover products
+Needle in a haystack: Mapping rare and infrequent crops using satellite imagery and data balancing methods
+A global to regional scale assessment of dam-induced agricultural change by means of remote sensing
+Remote sensing and geospatial technologies in support of a normative land system science: status and prospects
+Remote Detection of Large-Area Crop Types: The Role of Plant Phenology and Topography
+Mapping and Quantifying White Mold in Soybean across South Dakota Using Landsat Images
+Identificação de áreas agrícolas de ciclo anual no estado do Paraná a partir de métricas temporais de EVI2 e NDVI utilizando o Google Earth Engine
+Efficient Identification of Corn Cultivation Area with Multitemporal Synthetic Aperture Radar and Optical Images in the Google Earth Engine Cloud Platform
+Contrasting tree-cover loss and subsequent land cover in two neotropical forest regions: sample-based assessment of the Mexican Yucatán and Argentine Chaco
+A phenology-based spectral and temporal feature selection method for crop mapping from satellite time series
+Classification of Crops, Pastures, and Tree Plantations along the Season with Multi-Sensor Image Time Series in a Subtropical Agricultural Region
+Feature Comparison and Optimization for 30-M Winter Wheat Mapping Based on Landsat-8 and Sentinel-2 Data Using Random Forest Algorithm
+Mapping Cropping Practices on a National Scale Using Intra-Annual Landsat Time Series Binning
+Effect of using crop specific masks on earth observation based crop yield forecasting across Canada
+A Review on the Automatic Segmentation and Classification of Agricultural Areas in Remotely Sensed Images
+Mapping spatiotemporal dynamics of maize in China from 2005 to 2017 through designing leaf moisture based indicator from Normalized Multi-band Drought Index
+Greenhouse Crop Identification from Multi-Temporal Multi-Sensor Satellite Imagery Using Object-Based Approach: A Case Study from Almería (Spain)
+Identifying Citronella Plants From UAV Imagery Using Support Vector Machine
+A comparison of global agricultural monitoring systems and current gaps
+Design of a spatial sampling scheme considering the spatial autocorrelation of crop acreage included in the sampling units
+An optimized two-stage spatial sampling scheme for winter wheat acreage estimation using remotely sensed imagery
+Using a simulation analysis to evaluate the impact of crop mapping error on crop area estimation from stratified sampling
+Model-Assisted Survey Sampling.
+A multi-resolution approach to national-scale cultivated area estimation of soybean
+Generating global crop distribution maps: from census to grid
+A Unified Cropland Layer at 250 m for Global Agriculture Monitoring
+The Evaporative Stress Index as an indicator of agricultural drought in Brazil: An assessment based on crop yield impacts
+Quantification of global gross forest cover loss
+The 2009 Cropland Data Layer
+Farming the planet
+Conterminous United States crop field size quantification from multi-temporal Landsat data
+Relationship between MODIS-NDVI data and wheat yield: A case study in Northern Buenos Aires province, Argentina
