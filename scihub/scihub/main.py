@@ -1,4 +1,5 @@
 from scihub import SciHub
+import sys
 
 title = 'Remote sensing and land cover area estimation'
 
@@ -13,3 +14,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    sys.exit(0)

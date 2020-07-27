@@ -13,6 +13,7 @@ def get_driver(driver_path, download_dir='.\\download'):
 
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
+    options.headless = True
     options.add_argument('--disable-gpu')
     options.add_experimental_option("prefs", profile)
     options.add_experimental_option('excludeSwitches', ['enable-automation'])

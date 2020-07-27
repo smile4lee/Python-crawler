@@ -1,10 +1,13 @@
-import time
-import traceback
-
-import tool
-import sys
-import config
+import logging
 import os
+
+import time
+
+import config
+import tool
+
+logger = logging.getLogger(__name__)
+
 
 class SciHub(object):
     def __init__(self,
@@ -25,7 +28,7 @@ class SciHub(object):
         self.driver = driver
 
     def do(self):
-        print("title: %s" % self.title)
+        logger.info("title: %s", self.title)
         try:
             self.download_url = tool.search(self.driver, self.scihub_url, self.title)
             tool.download(self.driver, self.download_url, self.download_dir, self.title)
@@ -33,12 +36,11 @@ class SciHub(object):
             # sleep to wait for the download finishing
             time.sleep(10)
             tool.rename_latest_file(self.download_dir, self.title)
-
         except Exception as e:
-            print(str(e))
-            print("error with title: %s" % self.title)
-            print("error with url: %s" % self.download_url)
-            traceback.print_exc()
-            sys.exit(1)
-
-        sys.exit(0)
+            logger.error("error with title: %s, url: %s", self.title, self.download_url)
+            logging.exception(e)
+        finally:
+            if self.driver is not None:
+                logger.info("close and quit driver")
+                self.driver.close()
+                self.driver.quit()
